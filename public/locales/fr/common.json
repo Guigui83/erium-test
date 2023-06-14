@@ -1,0 +1,112 @@
+{
+  "meilleursTaux": "Meilleurs taux",
+  "temoignages": "Témoignages",
+  "faq": "FAQ",
+  "connect": "Se connecter",
+  "signIn": "S'inscrire",
+  "title1": "simplifiez",
+  "title2": "vos assurances.",
+  "subtitle": "Obtenez les meilleurs taux du marché sur vos assurances auto, immo et crédit.",
+  "ctaHero1": "Obtenir un devis gratuit",
+  "ctaHero2": "Regarder vidéo",
+  "trust": "Ils nous font confiance",
+  "featuresTitle": "Nos meilleurs taux.",
+  "featuresSubtitle": "Nous vous garantissons les meilleurs taux sur vos assurances auto, immo et crédit.",
+  "carInsurance": "Assurance automobile",
+  "houseInsurance": "Assurance habitation",
+  "creditInsurance": "Assurance crédit",
+  "travelInsurance": "Assurance voyage",
+  "carInsuranceText": "Soumettez-nous toutes les données concernant votre véhicule, vos habitudes de conduites et nous nous chargeons du reste.",
+  "houseInsuranceText": "Nous vous assurons le meilleur taux du marché sur votre assurance habitation.",
+  "creditInsuranceText": "Nous obtenons de meileurs taux d'assurance crédit que la plupart de nos concurrents depuis plusieurs années.",
+  "travelInsuranceText": "Partez sereinement en vacances et faites des économies grâce à nos assurances voyage parmi les plus compétitives sur le marché.",
+  "testimonyTitle": "Témoignages.",
+  "testimonySubtitle": "Nos clients, fidèles ou nouveaux ont quelque chose à vous dire qui pourrait vous convaincre de soumettre un devis sur une de nos assurance.",  
+  "faqTitle": "Questions fréquentes",
+  "faqSubtitle": "N'hésitez pas à nous contacter si vous ne trouvez pas votre réponse.",
+  "question1": "Assurez-vous avoir les meilleurs taux?",
+  "question2": "Je crains que mes données transmises soit collectées puis revendues.",
+  "question3": "Mon mot de passe est perdu, que faire?",
+  "answer1": "Absolument, notre algorithme est le plus performant jamais utilisé sur le marché, associé à une nouvelle IA développée par notre partenaire AI3000.",
+  "answer2": "Nous assurons à tout nos clients sans excéption que les données colléctées sont stockées en toute sécurité.",
+  "answer3": "Contactez-nous et nous vous renverrons un lien pour paramétrer un nouveau mot de passe.",
+  "footerRate": "Meilleurs Taux",
+  "footerTestimony": "Témoignages",
+  "footerFaq": "FAQ",
+  "mentionLegales": "Mentions légales",
+  "connectTitle": "Se connecter à son compte",
+  "connectText": "Vous n'avez pas encore de compte? S'inscrire pour obtenir une soumission.",
+  "connectEmail": "Email",
+  "connectPassword": "Mot de passe",
+  "connectCta": "Se connecter",
+  "signInTitle": "Demander une soumission",
+  "signInText": "Déjà inscris? Se connecter à son compte.",
+  "signInLastName": "Nom",
+  "signInFirstName": "Prénom",
+  "signInEmail": "Email",
+  "signInPassword": "Mot de passe",
+  "signInQuestion": "Comment avez-vous entendu parler de nous?",
+  "signInSubmit": "Soumettre",
+  "primaryFeatures": [
+    {
+      "title": "Assurance automobile",
+      "description": "Soumettez-nous toutes les données concernant votre véhicule, vos habitudes de conduites et nous nous chargeons du reste.",
+      "image": "/screenshots/payroll.png"
+    },
+    {
+      "title": "Assurance habitation",
+      "description": "Nous vous assurons le meilleur taux du marché sur votre assurance habitation.",
+      "image": "/screenshots/expenses.png"
+    },
+    {
+      "title": "Assurance crédit",
+      "description": "Nous obtenons de meileurs taux d'assurance crédit que la plupart de nos concurrents depuis plusieurs années.",
+      "image": "/screenshots/vat-returns.png"
+    },
+    {
+      "title": "Assurance voyage",
+      "description": "Partez sereinement en vacances et faites des économies grâce à nos assurances voyage parmi les plus compétitives sur le marché.",
+      "image": "/screenshots/reporting.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "content": "De loin les meilleurs taux en assurance sur internet.",
+      "author": {
+        "name": "Sandra Berger",
+        "role": "Restauratrice",
+        "image": "/avatars/avatar-1.png"
+      }
+    },
+    {
+      "content": "Je recommande ZeroRisk les yeux fermées, meilleurs taux en assurance sur le marché.",
+      "author": {
+        "name": "Michel Hidalgo",
+        "role": "Informaticien",
+        "image": "/avatars/avatar-5.png"
+      }
+    },
+    {
+      "content": "Je ne compte les économies faites grâces aux taux imbattales que ZeroRisk propose.",
+      "author": {
+        "name": "Silvio Milano",
+        "role": "Entrepreneur",
+        "image": "/avatars/avatar-3.png"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Assurez-vous avoir les meilleurs taux?",
+      "answer": "Absolument, notre algorithme est le plus performant jamais utilisé sur le marché, associé à une nouvelle IA développée par notre partenaire IA3000."
+    },
+    {
+      "question": "Je crains que mes données transmises soit collectées puis revendues.",
+      "answer": "Nous assurons à tout nos clients sans excéption que les données colléctées sont stockées en toute sécurité."
+    },
+    {
+      "question": "Mon mot de passe est perdu, que faire?",
+      "answer": "Contactez-nous et nous vous renverrons un lien pour paramétrer un nouveau mot de passe."
+    }
+  ]
+}

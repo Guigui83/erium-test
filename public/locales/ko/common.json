@@ -1,0 +1,118 @@
+{
+  "meilleursTaux": "최저 금리",
+  "temoignages": "고객 인증",
+  "faq": "자주 묻는 질문",
+  "connect": "로그인",
+  "signIn": "가입하기",
+  "title1": "보험을.",
+  "title2": "간소화하세요.",
+  "subtitle": "차량, 부동산 및 신용 보험에서 최고의 시장 금리를 얻으세요.",
+  "ctaHero1": "무료 견적 받기",
+  "ctaHero2": "데모 시청",
+  "trust": "그들이 우리를 믿습니다",
+  "featuresTitle": "우리의 최저 금리",
+  "featuresSubtitle": "차량, 부동산 및 신용 보험에서 최고의 금리를 보장합니다.",
+  "carInsurance": "자동차 보험",
+  "houseInsurance": "주택 보험",
+  "creditInsurance": "신용 보험",
+  "travelInsurance": "여행 보험",
+  "carInsuranceText": "차량 및 운전 습관에 대한 모든 데이터를 제출하면, 우리가 나머지를 처리해 드립니다.",
+  "houseInsuranceText": "주택 보험에서 최고의 시장 금리를 보장합니다.",
+  "creditInsuranceText": "여러 해 동안 대부분의 경쟁 업체보다 더 나은 신용 보험 금리를 제공하고 있습니다.",
+  "travelInsuranceText": "경쟁력 있는 여행 보험을 통해 걱정 없이 휴가를 즐기고 돈을 절약하세요.",
+  "testimonyTitle": "고객 인증",
+  "testimonySubtitle": "우리의 충성스러운 고객들은 새로운 고객들을 설득할 수 있는 몇 가지 이야기를 전하고 있습니다.",
+  "sandraComment": "인터넷에서 최고의 보험 금리입니다.",
+  "sandraPro": "음식점 주인",
+  "michelComment": "눈을 감고 ZeroRisk을 추천합니다. 시장에서 최고의 보험 금리입니다.",
+  "michelPro": "컴퓨터 과학자",
+  "silvioComment": "ZeroRisk이 제공하는 저렴한 금리로 인해 얼마나 많은 절약을 했는지 계산조차 할 수 없습니다.",
+  "silvioPro": "기업가",
+  "faqTitle": "자주 묻는 질문",
+  "faqSubtitle": "답변을 찾을 수 없다면 언제든지 문의하세요.",
+  "question1": "최고의 금리를 제공하나요?",
+  "question2": "전송된 데이터가 수집되어 재판매될까봐 걱정됩니다.",
+  "question3": "비밀번호를 분실했을 때 어떻게 해야 하나요?",
+  "answer1": "절대로요, 저희 알고리즘은 시장에서 가장 효율적인 것이며, 파트너 AI3000이 개발한 새로운 인공지능과 결합되어 있습니다.",
+  "answer2": "데이터가 안전하게 저장된다는 점에서 우리는 모든 고객을 예외 없이 보장합니다.",
+  "answer3": "문의하여 새 비밀번호를 설정할 수 있는 링크를 보내드리겠습니다.",
+  "footerRate": "최고의 금리",
+  "footerTestimony": "고객 인증",
+  "footerFaq": "자주 묻는 질문",
+  "mentionLegales": "법적 고지",
+  "connectTitle": "계정에 로그인",
+  "connectText": "아직 계정이 없으신가요? 견적을 받으려면 등록하세요.",
+  "connectEmail": "이메일",
+  "connectPassword": "비밀번호",
+  "connectCta": "로그인",
+  "signInTitle": "견적 신청",
+  "signInText": "이미 가입하셨나요? 로그인하세요.",
+  "signInLastName": "성",
+  "signInFirstName": "이름",
+  "signInEmail": "이메일",
+  "signInPassword": "비밀번호",
+  "signInQuestion": "어떻게 저희를 알게 되셨나요?",
+  "signInSubmit": "제출",
+  "primaryFeatures": [
+    {
+    "title": "자동차 보험",
+    "description": "차량 및 운전 습관에 대한 모든 데이터를 입력하면 나머지를 처리해 드립니다.",
+    "image": "/screenshots/payroll.png"
+    },
+    {
+    "title": "주택 보험",
+    "description": "주택 보험의 최고 시장 가격을 보장해 드립니다.",
+    "image": "/screenshots/expenses.png"
+    },
+    {
+    "title": "신용 보험",
+    "description": "우리는 여러 해 동안 대부분의 경쟁 업체보다 더 나은 신용 보험 요율을 달성해 왔습니다.",
+    "image": "/screenshots/vat-returns.png"
+    },
+    {
+    "title": "여행 보험",
+    "description": "고도 경쟁력 있는 여행 보험 상품으로 안전하게 여행하고 돈을 절약하세요.",
+    "image": "/screenshots/reporting.png"
+    }
+    ],
+    "testimonials": [
+    {
+    "content": "인터넷에서 최고의 보험 요율입니다.",
+    "author": {
+    "name": "산드라 베르거",
+    "role": "레스토랑 점주",
+    "image": "/avatars/avatar-1.png"
+    }
+    },
+    {
+    "content": "ZeroRisk를 맹신해서 말할 수밖에 없습니다. 시장에서 최고의 보험 요율입니다.",
+    "author": {
+    "name": "미셸 히다르고",
+    "role": "컴퓨터 과학자",
+    "image": "/avatars/avatar-5.png"
+    }
+    },
+    {
+    "content": "ZeroRisk가 제공하는 이길 수 없는 요율 덕분에 절약한 금액을 세지 않습니다.",
+    "author": {
+    "name": "실비오 밀라노",
+    "role": "기업인",
+    "image": "/avatars/avatar-3.png"
+    }
+    }
+    ],
+    "faqs": [
+    {
+    "question": "가장 좋은 가격을 가지고 있나요?",
+    "answer": "절대로, 우리의 알고리즘은 시장에서 사용된 가장 강력한 알고리즘으로 우리의 파트너 IA3000에서 개발한 새로운 AI와 결합되었습니다."
+    },
+    {
+    "question": "전송된 데이터가 수집되어 판매될까 걱정됩니다.",
+    "answer": "수집된 데이터가 안전하게 저장되는 것을 우리는 모든 고객에게 예외 없이 보장합니다."
+    },
+    {
+    "question": "비밀번호를 잊어버렸습니다. 어떻게 해야 하나요?",
+    "answer": "저희에게 연락하여 새 비밀번호를 설정할 수 있는 링크를 보내드립니다."
+    }
+    ]
+  }

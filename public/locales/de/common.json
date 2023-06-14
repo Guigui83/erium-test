@@ -1,0 +1,118 @@
+{
+  "meilleursTaux": "Beste Zinssätze",
+  "temoignages": "Kundenbewertungen",
+  "faq": "Häufig gestellte Fragen",
+  "connect": "Einloggen",
+  "signIn": "Registrieren",
+  "title1": "Vereinfachen ",
+  "title2": "Sie Ihre Versicherung.",
+  "subtitle": "Erhalten Sie die besten Marktzinsen für Ihre Kfz-, Immobilien- und Kreditversicherung.",
+  "ctaHero1": "Kostenloses Angebot erhalten",
+  "ctaHero2": "Demo ansehen",
+  "trust": "Vertrauen Sie uns",
+  "featuresTitle": "Unsere besten Zinssätze.",
+  "featuresSubtitle": "Wir garantieren Ihnen die besten Zinssätze für Ihre Kfz-, Immobilien- und Kreditversicherung.",
+  "carInsurance": "Kfz-Versicherung",
+  "houseInsurance": "Hausversicherung",
+  "creditInsurance": "Kreditversicherung",
+  "travelInsurance": "Reiseversicherung",
+  "carInsuranceText": "Geben Sie alle Daten zu Ihrem Fahrzeug und Ihren Fahrgewohnheiten ein, und wir kümmern uns um den Rest.",
+  "houseInsuranceText": "Wir bieten Ihnen den besten Marktzins für Ihre Hausversicherung.",
+  "creditInsuranceText": "Seit mehreren Jahren erzielen wir bessere Zinssätze für Kreditversicherungen als die meisten unserer Konkurrenten.",
+  "travelInsuranceText": "Gehen Sie beruhigt in den Urlaub und sparen Sie dank unserer Reiseversicherung, die zu den wettbewerbsfähigsten auf dem Markt gehört.",
+  "testimonyTitle": "Kundenbewertungen.",
+  "testimonySubtitle": "Unsere treuen Kunden haben Ihnen etwas zu erzählen, was Sie davon überzeugen könnte, ein Angebot für eine unserer Versicherungen einzureichen.",  
+  "sandraComment": "Mit Abstand die besten Versicherungssätze im Internet.",
+  "sandraPro": "Gastronom",
+  "michelComment": "Ich empfehle ZeroRisk blind, die besten Versicherungssätze auf dem Markt.",
+  "michelPro": "Informatiker",
+  "silvioComment": "Ich kann die Einsparungen, die ZeroRisk dank der unschlagbaren Zinssätze bietet, nicht zählen.",
+  "silvioPro": "Unternehmer",
+  "faqTitle": "Häufig gestellte Fragen",
+  "faqSubtitle": "Zögern Sie nicht, uns zu kontaktieren, wenn Sie keine Antwort finden.",
+  "question1": "Haben Sie die besten Zinssätze?",
+  "question2": "Ich befürchte, dass meine übermittelten Daten gesammelt und dann weiterverkauft werden.",
+  "question3": "Ich habe mein Passwort vergessen, was soll ich tun?",
+  "answer1": "Absolut, unser Algorithmus ist der effizienteste, der jemals auf dem Markt verwendet wurde, in Kombination mit einer neuen KI, die von unserem Partner AI3000 entwickelt wurde.",
+  "answer2": "Wir versichern allen unseren Kunden ohne Ausnahme, dass die gesammelten Daten sicher gespeichert werden.",
+  "answer3": "Kontaktieren Sie uns und wir senden Ihnen einen Link zur Einrichtung eines neuen Passworts.",
+  "footerRate": "Beste Zinssätze",
+  "footerTestimony": "Kundenbewertungen",
+  "footerFaq": "Häufig gestellte Fragen",
+  "mentionLegales": "Impressum",
+  "connectTitle": "Melden Sie sich in Ihrem Konto an",
+  "connectText": "Sie haben noch kein Konto? Registrieren Sie sich, um ein Angebot zu erhalten.",
+  "connectEmail": "E-Mail",
+  "connectPassword": "Passwort",
+  "connectCta": "Einloggen",
+  "signInTitle": "Angebot anfordern",
+  "signInText": "Bereits registriert? Einloggen.",
+  "signInLastName": "Nachname",
+  "signInFirstName": "Vorname",
+  "signInEmail": "E-Mail",
+  "signInPassword": "Passwort",
+  "signInQuestion": "Wie sind Sie auf uns aufmerksam geworden?",
+  "signInSubmit": "Absenden",
+  "primaryFeatures": [
+    {
+    "title": "Kfz-Versicherung",
+    "description": "Geben Sie alle Daten zu Ihrem Fahrzeug und Ihren Fahrverhalten ein, wir kümmern uns um den Rest.",
+    "image": "/screenshots/payroll.png"
+    },
+    {
+    "title": "Hausversicherung",
+    "description": "Wir garantieren Ihnen den besten Marktpreis für Ihre Hausversicherung.",
+    "image": "/screenshots/expenses.png"
+    },
+    {
+    "title": "Kreditversicherung",
+    "description": "Wir erzielen seit mehreren Jahren bessere Kreditversicherungssätze als die meisten unserer Konkurrenten.",
+    "image": "/screenshots/vat-returns.png"
+    },
+    {
+    "title": "Reiseversicherung",
+    "description": "Reisen Sie in Ruhe und sparen Sie Geld mit unseren hoch konkurrenzfähigen Reiseversicherungspolicen auf dem Markt.",
+    "image": "/screenshots/reporting.png"
+    }
+    ],
+    "testimonials": [
+    {
+    "content": "Mit Abstand die besten Versicherungssätze im Internet.",
+    "author": {
+    "name": "Sandra Berger",
+    "role": "Gastronomin",
+    "image": "/avatars/avatar-1.png"
+    }
+    },
+    {
+    "content": "Ich empfehle ZeroRisk blind, die besten Versicherungssätze auf dem Markt.",
+    "author": {
+    "name": "Michel Hidalgo",
+    "role": "Informatiker",
+    "image": "/avatars/avatar-5.png"
+    }
+    },
+    {
+    "content": "Ich zähle die Einsparungen nicht, die ich dank der unschlagbaren Sätze, die ZeroRisk bietet, gemacht habe.",
+    "author": {
+    "name": "Silvio Milano",
+    "role": "Unternehmer",
+    "image": "/avatars/avatar-3.png"
+    }
+    }
+    ],
+    "faqs": [
+    {
+    "question": "Haben Sie die besten Preise?",
+    "answer": "Absolut, unser Algorithmus ist der leistungsstärkste, der jemals auf dem Markt verwendet wurde, kombiniert mit einer neuen KI, die von unserem Partner IA3000 entwickelt wurde."
+    },
+    {
+    "question": "Ich mache mir Sorgen, dass meine übermittelten Daten gesammelt und weiterverkauft werden.",
+    "answer": "Wir versichern allen unseren Kunden ohne Ausnahme, dass die gesammelten Daten sicher gespeichert werden."
+    },
+    {
+    "question": "Ich habe mein Passwort vergessen, was soll ich tun?",
+    "answer": "Kontaktieren Sie uns, und wir senden Ihnen einen Link, um ein neues Passwort einzurichten."
+    }
+    ]
+  }

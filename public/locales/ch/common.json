@@ -1,0 +1,118 @@
+{
+  "meilleursTaux": "最佳利率",
+  "temoignages": "客户见证",
+  "faq": "常见问题",
+  "connect": "登录",
+  "signIn": "注册",
+  "title1": "简化",
+  "title2": "你的保险",
+  "subtitle": "获得汽车、房产和信用保险的最佳市场利率。",
+  "ctaHero1": "免费获取报价",
+  "ctaHero2": "观看演示",
+  "trust": "他们信任我们",
+  "featuresTitle": "我们的最佳利率。",
+  "featuresSubtitle": "我们保证为您的汽车、房产和信用保险提供最佳利率。",
+  "carInsurance": "汽车保险",
+  "houseInsurance": "房屋保险",
+  "creditInsurance": "信用保险",
+  "travelInsurance": "旅行保险",
+  "carInsuranceText": "提交有关您的车辆和驾驶习惯的所有数据，剩下的就交给我们处理。",
+  "houseInsuranceText": "我们保证为您的房屋保险提供最佳市场利率。",
+  "creditInsuranceText": "多年来，我们一直获得比大多数竞争对手更好的信用保险利率。",
+  "travelInsuranceText": "放心度假，并通过我们市场上竞争力最强的旅行保险节省金钱。",
+  "testimonyTitle": "客户见证。",
+  "testimonySubtitle": "我们的忠实或新客户有些话要告诉您，这些话可能会说服您在我们的保险政策中提交报价。",
+  "sandraComment": "迄今为止互联网上最佳的保险利率。",
+  "sandraPro": "餐馆经营者",
+  "michelComment": "我毫不犹豫地推荐ZeroRisk，这是市场上最好的保险利率。",
+  "michelPro": "计算机科学家",
+  "silvioComment": "由于ZeroRisk提供的无与伦比的利率，我无法计算所节省的费用。",
+  "silvioPro": "企业家",
+  "faqTitle": "常见问题",
+  "faqSubtitle": "如果您找不到答案，请随时与我们联系。",
+  "question1": "您是否拥有最佳利率？",
+  "question2": "我担心我的传输数据将被收集然后再次销售...",
+  "question3": "我忘记了我的密码，该怎么办？",
+  "answer1": "当然，我们的算法是市场上使用的最高效算法，结合我们合作伙伴AI3000开发的新型人工智能。",
+  "answer2": "我们向所有客户保证，收集的数据将安全存储，无一例外。",
+  "answer3": "请联系我们，我们将向您发送链接以设置新密码。",
+  "footerRate": "最佳利率",
+  "footerTestimony": "客户见证",
+  "footerFaq": "常见问题",
+  "mentionLegales": "法律声明",
+  "connectTitle": "登录您的帐户",
+  "connectText": "还没有账户吗？注册以获取报价。",
+  "connectEmail": "邮箱",
+  "connectPassword": "密码",
+  "connectCta": "登录",
+  "signInTitle": "索取报价",
+  "signInText": "已注册？登录。",
+  "signInLastName": "姓氏",
+  "signInFirstName": "名字",
+  "signInEmail": "邮箱",
+  "signInPassword": "密码",
+  "signInQuestion": "您是如何了解我们的？",
+  "signInSubmit": "提交",
+  "primaryFeatures": [
+    {
+    "title": "Car Insurance",
+    "description": "提交有关您的车辆、驾驶习惯的所有数据，我们会处理剩下的事情。",
+    "image": "/screenshots/payroll.png"
+    },
+    {
+    "title": "Home Insurance",
+    "description": "我们为您的住宅保险提供最佳市场利率保证。",
+    "image": "/screenshots/expenses.png"
+    },
+    {
+    "title": "Credit Insurance",
+    "description": "多年来，我们一直比大多数竞争对手获得更好的信用保险费率。",
+    "image": "/screenshots/vat-returns.png"
+    },
+    {
+    "title": "Travel Insurance",
+    "description": "以我们在市场上高度竞争的旅行保险政策，安心旅行并节省费用。",
+    "image": "/screenshots/reporting.png"
+    }
+    ],
+    "testimonials": [
+    {
+    "content": "迄今为止，互联网上最佳的保险费率。",
+    "author": {
+    "name": "Sandra Berger",
+    "role": "餐饮业主",
+    "image": "/avatars/avatar-1.png"
+    }
+    },
+    {
+    "content": "我闭着眼睛推荐ZeroRisk，市场上最好的保险费率。",
+    "author": {
+    "name": "Michel Hidalgo",
+    "role": "计算机科学家",
+    "image": "/avatars/avatar-5.png"
+    }
+    },
+    {
+    "content": "我不计算因ZeroRisk提供的无可比拟费率而实现的节省。",
+    "author": {
+    "name": "Silvio Milano",
+    "role": "企业家",
+    "image": "/avatars/avatar-3.png"
+    }
+    }
+    ],
+    "faqs": [
+    {
+    "question": "您拥有最好的费率吗？",
+    "answer": "绝对是的，我们的算法是市场上使用的最强大的，结合了我们合作伙伴IA3000开发的新人工智能。"
+    },
+    {
+    "question": "我担心我的传输数据将被收集和转售。",
+    "answer": "我们向所有客户保证，无论何种情况，收集的数据都会得到安全存储。"
+    },
+    {
+    "question": "我忘记了密码，我该怎么办？",
+    "answer": "请联系我们，我们将发送给您一个链接以设置新密码。"
+    }
+    ]   
+  }

@@ -1,0 +1,118 @@
+{
+  "meilleursTaux": "Mejores tarifas",
+  "temoignages": "Testimonios",
+  "faq": "Preguntas frecuentes",
+  "connect": "Iniciar sesión",
+  "signIn": "Registrarse",
+  "title1": "simplifica",
+  "title2": "tu seguro.",
+  "subtitle": "Obtén las mejores tarifas del mercado para tu seguro de auto, propiedad y crédito.",
+  "ctaHero1": "Obtener una cotización gratuita",
+  "ctaHero2": "Ver demostración",
+  "trust": "Confían en nosotros",
+  "featuresTitle": "Nuestras mejores tarifas.",
+  "featuresSubtitle": "Te garantizamos las mejores tarifas para tu seguro de auto, propiedad y crédito.",
+  "carInsurance": "Seguro de auto",
+  "houseInsurance": "Seguro de hogar",
+  "creditInsurance": "Seguro de crédito",
+  "travelInsurance": "Seguro de viaje",
+  "carInsuranceText": "Envía todos los datos sobre tu vehículo, tus hábitos de conducción y nosotros nos encargaremos del resto.",
+  "houseInsuranceText": "Te aseguramos la mejor tarifa del mercado para tu seguro de hogar.",
+  "creditInsuranceText": "Hemos obtenido mejores tarifas de seguro de crédito que la mayoría de nuestros competidores durante varios años.",
+  "travelInsuranceText": "Ve de vacaciones con tranquilidad y ahorra dinero gracias a nuestro seguro de viaje, uno de los más competitivos del mercado.",
+  "testimonyTitle": "Testimonios.",
+  "testimonySubtitle": "Nuestros clientes, ya sean leales o nuevos, tienen algo que contarte que podría convencerte de solicitar una cotización en una de nuestras pólizas de seguro.",
+  "sandraComment": "Sin duda, las mejores tarifas de seguro en Internet.",
+  "sandraPro": "Restauradora",
+  "michelComment": "Recomiendo ZeroRisk con los ojos cerrados, las mejores tarifas de seguro en el mercado.",
+  "michelPro": "Científico informático",
+  "silvioComment": "No cuento las ahorros realizados gracias a las tarifas imbatibles que ofrece ZeroRisk.",
+  "silvioPro": "Empresario",
+  "faqTitle": "Preguntas frecuentes",
+  "faqSubtitle": "No dudes en contactarnos si no encuentras tu respuesta.",
+  "question1": "¿Tienen las mejores tarifas?",
+  "question2": "Temo que mis datos transmitidos sean recopilados y luego revendidos...",
+  "question3": "Olvidé mi contraseña, ¿qué debo hacer?",
+  "answer1": "Absolutamente, nuestro algoritmo es el más eficiente jamás utilizado en el mercado, combinado con una nueva inteligencia artificial desarrollada por nuestro socio AI3000.",
+  "answer2": "Aseguramos a todos nuestros clientes, sin excepción, que los datos recopilados se almacenan de forma segura.",
+  "answer3": "Contáctanos y te enviaremos un enlace para configurar una nueva contraseña.",
+  "footerRate": "Mejores tarifas",
+  "footerTestimony": "Testimonios",
+  "footerFaq": "Preguntas frecuentes",
+  "mentionLegales": "Aviso legal",
+  "connectTitle": "Inicia sesión en tu cuenta",
+  "connectText": "¿Todavía no tienes una cuenta? Regístrate para obtener una cotización.",
+  "connectEmail": "Email",
+  "connectPassword": "Contraseña",
+  "connectCta": "Iniciar sesión",
+  "signInTitle": "Solicitar una cotización",
+  "signInText": "¿Ya estás registrado? Inicia sesión.",
+  "signInLastName": "Apellido",
+  "signInFirstName": "Nombre",
+  "signInEmail": "Email",
+  "signInPassword": "Contraseña",
+  "signInQuestion": "¿Cómo te enteraste de nosotros?",
+  "signInSubmit": "Enviar",
+  "primaryFeatures": [
+    {
+    "title": "Seguro de automóvil",
+    "description": "Ingrese todos los datos sobre su vehículo y sus hábitos de conducción, nosotros nos encargamos del resto.",
+    "image": "/screenshots/payroll.png"
+    },
+    {
+    "title": "Seguro de hogar",
+    "description": "Le garantizamos la mejor tarifa del mercado para su seguro de hogar.",
+    "image": "/screenshots/expenses.png"
+    },
+    {
+    "title": "Seguro de crédito",
+    "description": "Obtenemos mejores tasas de seguro de crédito que la mayoría de nuestros competidores desde hace varios años.",
+    "image": "/screenshots/vat-returns.png"
+    },
+    {
+    "title": "Seguro de viaje",
+    "description": "Viaje tranquilamente y ahorre dinero con nuestras pólizas de seguro de viaje altamente competitivas en el mercado.",
+    "image": "/screenshots/reporting.png"
+    }
+    ],
+    "testimonials": [
+    {
+    "content": "Sin duda, las mejores tarifas de seguros en Internet.",
+    "author": {
+    "name": "Sandra Berger",
+    "role": "Restauradora",
+    "image": "/avatars/avatar-1.png"
+    }
+    },
+    {
+    "content": "Recomiendo ZeroRisk sin dudarlo, las mejores tarifas de seguros en el mercado.",
+    "author": {
+    "name": "Michel Hidalgo",
+    "role": "Informático",
+    "image": "/avatars/avatar-5.png"
+    }
+    },
+    {
+    "content": "No cuento los ahorros realizados gracias a las tarifas imbatibles que ofrece ZeroRisk.",
+    "author": {
+    "name": "Silvio Milano",
+    "role": "Empresario",
+    "image": "/avatars/avatar-3.png"
+    }
+    }
+    ],
+    "faqs": [
+    {
+    "question": "¿Tienen las mejores tarifas?",
+    "answer": "Absolutamente, nuestro algoritmo es el más potente utilizado en el mercado, combinado con una nueva IA desarrollada por nuestro socio IA3000."
+    },
+    {
+    "question": "Me preocupa que mis datos transmitidos sean recopilados y revendidos.",
+    "answer": "Garantizamos a todos nuestros clientes, sin excepción, que los datos recopilados se almacenan de forma segura."
+    },
+    {
+    "question": "Olvidé mi contraseña, ¿qué debo hacer?",
+    "answer": "Contáctenos y le enviaremos un enlace para configurar una nueva contraseña."
+    }
+    ]
+}

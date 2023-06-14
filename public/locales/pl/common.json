@@ -1,0 +1,118 @@
+{
+  "meilleursTaux": "Najlepsze stawki",
+  "temoignages": "Referencje",
+  "faq": "Najczęściej zadawane pytania",
+  "connect": "Zaloguj się",
+  "signIn": "Zarejestruj się",
+  "title1": "Ułatw",
+  "title2": "sobie ubezpieczenie.",
+  "subtitle": "Otrzymaj najlepsze stawki na rynku dla ubezpieczenia samochodu, nieruchomości i kredytowego.",
+  "ctaHero1": "Otrzymaj darmową wycenę",
+  "ctaHero2": "Obejrzyj prezentację",
+  "trust": "Zaufało nam",
+  "featuresTitle": "Nasze najlepsze stawki.",
+  "featuresSubtitle": "Gwarantujemy Ci najlepsze stawki na ubezpieczenie samochodu, nieruchomości i kredytowe.",
+  "carInsurance": "Ubezpieczenie samochodu",
+  "houseInsurance": "Ubezpieczenie domu",
+  "creditInsurance": "Ubezpieczenie kredytowe",
+  "travelInsurance": "Ubezpieczenie podróżne",
+  "carInsuranceText": "Prześlij wszystkie dane dotyczące swojego pojazdu, swoich nawyków jazdy, a my zajmiemy się resztą.",
+  "houseInsuranceText": "Zapewniamy Ci najlepszą stawkę na ubezpieczenie domu na rynku.",
+  "creditInsuranceText": "Od kilku lat uzyskujemy lepsze stawki na ubezpieczenie kredytowe niż większość naszych konkurentów.",
+  "travelInsuranceText": "Wyjedź na wakacje z pewnością i zaoszczędź dzięki naszemu konkurencyjnemu ubezpieczeniu podróżnemu.",
+  "testimonyTitle": "Referencje.",
+  "testimonySubtitle": "Nasi klienci, zarówno lojalni, jak i nowi, mają coś do powiedzenia, co może Cię przekonać do złożenia zapytania o jedno z naszych ubezpieczeń.",
+  "sandraComment": "Zdecydowanie najlepsze stawki ubezpieczeniowe w internecie.",
+  "sandraPro": "Restauratorka",
+  "michelComment": "Polecam ZeroRisk z zamkniętymi oczami, to najlepsze stawki ubezpieczeniowe na rynku.",
+  "michelPro": "Informatyk",
+  "silvioComment": "Nie zliczam oszczędności dzięki niezrównanym stawkom, jakie oferuje ZeroRisk.",
+  "silvioPro": "Przedsiębiorca",
+  "faqTitle": "Najczęściej zadawane pytania",
+  "faqSubtitle": "Jeśli nie możesz znaleźć odpowiedzi, nie wahaj się skontaktować z nami.",
+  "question1": "Czy oferujecie najlepsze stawki?",
+  "question2": "Obawiam się, że moje przesłane dane zostaną zebrane i odsprzedane.",
+  "question3": "Zgubiłem hasło, co powinienem zrobić?",
+  "answer1": "Oczywiście, nasz algorytm jest najbardziej efektywny spośród wszystkich stosowanych na rynku, we współpracy z nową sztuczną inteligencją opracowaną przez naszego partnera AI3000.",
+  "answer2": "Zapewniamy wszystkich naszych klientów, bez wyjątku, że zebrane dane są przechowywane w sposób bezpieczny.",
+  "answer3": "Skontaktuj się z nami, a wyślemy Ci link do ustawienia nowego hasła.",
+  "footerRate": "Najlepsze stawki",
+  "footerTestimony": "Referencje",
+  "footerFaq": "Najczęściej zadawane pytania",
+  "mentionLegales": "Informacje prawne",
+  "connectTitle": "Zaloguj się do swojego konta",
+  "connectText": "Nie masz jeszcze konta? Zarejestruj się, aby otrzymać wycenę.",
+  "connectEmail": "Email",
+  "connectPassword": "Hasło",
+  "connectCta": "Zaloguj się",
+  "signInTitle": "Zapytaj o wycenę",
+  "signInText": "Jesteś już zarejestrowany? Zaloguj się.",
+  "signInLastName": "Nazwisko",
+  "signInFirstName": "Imię",
+  "signInEmail": "Email",
+  "signInPassword": "Hasło",
+  "signInQuestion": "Jak się o nas dowiedziałeś?",
+  "signInSubmit": "Wyślij",
+  "primaryFeatures": [
+    {
+    "title": "Ubezpieczenie samochodu",
+    "description": "Podaj wszystkie dane dotyczące swojego pojazdu i swojego stylu jazdy, a my zajmiemy się resztą.",
+    "image": "/screenshots/payroll.png"
+    },
+    {
+    "title": "Ubezpieczenie domu",
+    "description": "Gwarantujemy najlepszą cenę na rynku dla Twojego ubezpieczenia domu.",
+    "image": "/screenshots/expenses.png"
+    },
+    {
+    "title": "Ubezpieczenie kredytu",
+    "description": "Od wielu lat osiągamy lepsze stawki ubezpieczenia kredytowego niż większość naszych konkurentów.",
+    "image": "/screenshots/vat-returns.png"
+    },
+    {
+    "title": "Ubezpieczenie podróżne",
+    "description": "Podróżuj spokojnie i oszczędzaj pieniądze dzięki naszym wysoce konkurencyjnym polisom ubezpieczeniowym na rynku.",
+    "image": "/screenshots/reporting.png"
+    }
+    ],
+    "testimonials": [
+    {
+    "content": "Najlepsze stawki ubezpieczeniowe w internecie.",
+    "author": {
+    "name": "Sandra Berger",
+    "role": "Właścicielka restauracji",
+    "image": "/avatars/avatar-1.png"
+    }
+    },
+    {
+    "content": "Ślepo polecam ZeroRisk, najlepsze stawki ubezpieczeniowe na rynku.",
+    "author": {
+    "name": "Michel Hidalgo",
+    "role": "Informatyk",
+    "image": "/avatars/avatar-5.png"
+    }
+    },
+    {
+    "content": "Nie zliczam oszczędności, jakie dokonałem dzięki niezrównanym stawkom oferowanym przez ZeroRisk.",
+    "author": {
+    "name": "Silvio Milano",
+    "role": "Przedsiębiorca",
+    "image": "/avatars/avatar-3.png"
+    }
+    }
+    ],
+    "faqs": [
+    {
+    "question": "Czy macie najlepsze ceny?",
+    "answer": "Absolutnie tak, nasz algorytm jest najpotężniejszy, jaki kiedykolwiek był stosowany na rynku, połączony z nową sztuczną inteligencją opracowaną przez naszego partnera IA3000."
+    },
+    {
+    "question": "Martwię się, że moje przekazane dane zostaną zebrane i sprzedane dalej.",
+    "answer": "Zapewniamy wszystkim naszym klientom bez wyjątku, że zebrane dane są bezpiecznie przechowywane."
+    },
+    {
+    "question": "Zapomniałem hasła, co powinienem zrobić?",
+    "answer": "Skontaktuj się z nami, a wyślemy Ci link do ustawienia nowego hasła."
+    }
+    ]
+  }

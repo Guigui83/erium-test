@@ -1,0 +1,112 @@
+{
+  "meilleursTaux": "Best rates",
+  "temoignages": "Testimonials",
+  "faq": "FAQ",
+  "connect": "Log in",
+  "signIn": "Sign in",
+  "title1": "simplify",
+  "title2": "your insurance.",
+  "subtitle": "Get the best market rates on your car, property and credit insurance.",
+  "ctaHero1": "Get a free quote",
+  "ctaHero2": "Watch demo",
+  "trust": "They trust us",
+  "featuresTitle": "Our best rates.",
+  "featuresSubtitle": "We guarantee you the best rates on your car, property and credit insurance.",
+  "carInsurance": "Car insurance",
+  "houseInsurance": "House insurance",
+  "creditInsurance": "Credit insurance",
+  "travelInsurance": "Travel insurance",
+  "carInsuranceText": "Submit all the data about your vehicle, your driving habits and we'll take care of the rest.",
+  "houseInsuranceText": "We assure you the best market rate on your home insurance.",
+  "creditInsuranceText": "We have been obtaining better credit insurance rates than most of our competitors for several years.",
+  "travelInsuranceText": "Go on vacation with peace of mind and save money thanks to our travel insurance, which is one of the most competitive on the market.",
+  "testimonyTitle": "Testimonials.",
+  "testimonySubtitle": "Our customers, loyal or new, have something to tell you that could convince you to submit a quote on one of our insurance policies.",
+  "faqTitle": "Frequently asked questions",
+  "faqSubtitle": "Do not hesitate to contact us if you cannot find your answer.",
+  "question1": "Do you have the best rates?",
+  "question2": "I fear that my transmitted data will be collected and then resold..",
+  "question3": "My password is lost, what should I do?",
+  "answer1": "Absolutely, our algorithm is the most efficient ever used on the market, combined with a new AI developed by our partner AI3000.",
+  "answer2": "We assure all our customers without exception that the data collected is stored securely.",
+  "answer3": "Contact us and we'll send you a link to set up a new password.",
+  "footerRate": "Best Rates",
+  "footerTestimony": "Testimonials",
+  "footerFaq": "FAQ",
+  "mentionLegales": "Legal Notice",
+  "connectTitle": "Login to your account",
+  "connectText": "Do not have an account yet? Register to get a quote.",
+  "connectEmail": "Email",
+  "connectPassword": "Password",
+  "connectCta": "Log in",
+  "signInTitle": "Request a quote",
+  "signInText": "Already registered? Log in.",
+  "signInLastName": "Last name",
+  "signInFirstName": "First name",
+  "signInEmail": "Email",
+  "signInPassword": "Password",
+  "signInQuestion": "How did you hear about us?",
+  "signInSubmit": "Submit",
+  "primaryFeatures": [
+    {
+      "title": "Car Insurance",
+      "description": "Submit all the data about your vehicle, your driving habits, and we'll take care of the rest.",
+      "image": "/screenshots/payroll.png"
+    },
+    {
+      "title": "Home Insurance",
+      "description": "We assure you the best market rate for your home insurance.",
+      "image": "/screenshots/expenses.png"
+    },
+    {
+      "title": "Credit Insurance",
+      "description": "We have been obtaining better credit insurance rates than most of our competitors for several years.",
+      "image": "/screenshots/vat-returns.png"
+    },
+    {
+      "title": "Travel Insurance",
+      "description": "Travel peacefully and save money with our highly competitive travel insurance policies in the market.",
+      "image": "/screenshots/reporting.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "content": "By far the best insurance rates on the internet.",
+      "author": {
+      "name": "Sandra Berger",
+      "role": "Restaurateur",
+      "image": "/avatars/avatar-1.png"
+      }
+    },
+    {
+      "content": "I recommend ZeroRisk with my eyes closed, the best insurance rates on the market.",
+      "author": {
+      "name": "Michel Hidalgo",
+      "role": "Computer scientist",
+      "image": "/avatars/avatar-5.png"
+      }
+    },
+    {
+      "content": "I do not count the savings made thanks to the unbeatable rates that ZeroRisk offers.",
+      "author": {
+      "name": "Silvio Milano",
+      "role": "Entrepreneur",
+      "image": "/avatars/avatar-3.png"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you have the best rates?",
+      "answer": "Absolutely, our algorithm is the most powerful ever used in the market, combined with a new AI developed by our partner IA3000."
+    },
+    {
+      "question": "I'm concerned that my transmitted data will be collected and resold.",
+      "answer": "We assure all our clients without exception that the collected data is stored securely."
+    },
+    {
+      "question": "I have lost my password, what should I do?",
+      "answer": "Contact us, and we will send you a link to set up a new password."
+    }
+  ]
+}
